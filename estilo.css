@@ -22,3 +22,12 @@ h1 {
    right: 705px;
    top: 200px;
 }
+
+.menuPrincipal {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background: rgb(32, 85, 69);
+  top: 0;
+  left: 0;
+}
